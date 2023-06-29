@@ -1,2 +1,2 @@
 # 2-DOF-Rotational-Robot-Motion-Planning
-2-Link Rotational Robot Motion Planning: Collision-free path planning, configuration space conversion, distance transforms, swept-volume collision detection, obstacle padding in 2D workspace
+This repository implements collision-free path planning for a 2-link rotational planar robot in a 2D workspace. It includes functionalities such as plotting the robot in the workspace, converting the problem into configuration space, computing distance transforms, finding paths, converting paths into configurations, detecting swept-volume collisions, and incorporating obstacle padding for conservative planning.
